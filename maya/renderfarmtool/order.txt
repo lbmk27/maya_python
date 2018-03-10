@@ -1,0 +1,29 @@
+THINGS TO DO
+--------------
+1) Create workspace
+2) Set all the textures paths to absolute path (fix for UDIMs with render farm)
+3) Import all references
+4) Save the current maya file to scenes folder - shotname + .ma
+5) Now copy all the textures from network and put in sourceImages folder
+6) zip the entire project folder with the same name as folder.
+7) Check if the .zip file is working on renderfarm.
+
+
+ORDER OF IMPLEMENTING
+---------------------
+1) Set project folder and create workspace
+2) Import references
+3) Save maya .ma file
+4) Copy all sourceImages from network location
+5) zip the folder
+6) Fix texture paths to absolute
+
+
+THINGS DONE
+-----------
+1) Creating a workspace
+2) Import references 
+3) Save maya file as .ma
+4) Copy entire folder
+5) Zip the folder
+6) Fix texture paths to absolute

@@ -1,0 +1,3 @@
+string $sspath[] = eval("workspace -lw"); 
+string $tpath = "setAttr -type \"string\" defaultArnoldRenderOptions.texture_searchpath " + "\"" + $sspath[1] + "\""; 
+eval($tpath);
